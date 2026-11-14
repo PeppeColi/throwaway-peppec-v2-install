@@ -11,6 +11,6 @@ permissions:
 
 jobs:
   ci:
-    uses: PeppeColi/peppec/.github/workflows/ci.yml@feat/peppec-prefix
+    uses: PeppeColi/peppec/.github/workflows/ci.yml@v2
     with:
-      engine_ref: feat/peppec-prefix
+      engine_ref: v2
