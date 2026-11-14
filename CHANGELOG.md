@@ -11,3 +11,4 @@ lines under a new heading with the version and the date.
 ### Changed
 
 - The program greets `Hello, PEPPEC!` instead of `Hello, world!`.
+- The program prints `Bye!` on its own line after the greeting.
