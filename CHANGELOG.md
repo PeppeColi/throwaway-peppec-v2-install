@@ -8,6 +8,10 @@ lines under a new heading with the version and the date.
 
 ## [Unreleased]
 
+### Added
+
+- The program prints `Goodbye, PEPPEC!` after the greeting.
+
 ### Changed
 
 - The program greets `Hello, PEPPEC!` instead of `Hello, world!`.
