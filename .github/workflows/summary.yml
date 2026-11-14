@@ -12,9 +12,9 @@ permissions:
 
 jobs:
   summary:
-    uses: PeppeColi/peppec/.github/workflows/summary.yml@feat/peppec-prefix
+    uses: PeppeColi/peppec/.github/workflows/summary.yml@v2
     with:
-      engine_ref: feat/peppec-prefix
+      engine_ref: v2
     secrets:
       PEPPEC_APP_PRIVATE_KEY: ${{ secrets.PEPPEC_APP_PRIVATE_KEY }}
       PEPPEC_TELEGRAM_BOT_TOKEN: ${{ secrets.PEPPEC_TELEGRAM_BOT_TOKEN }}
