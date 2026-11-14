@@ -1,4 +1,4 @@
-preset: rust-v1
+preset: none
 
 # Optional overrides of the preset defaults (see presets/<name>/preset.yml in the engine).
 # description, check, notes, allowed_tools and disallowed_tools replace the preset's value;
